@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CreditMe/FileContentIndex
+/.vs/ProjectEvaluation
+/.vs/CreditMe/v18
+/Core/bin/Debug/net9.0
+/Core/obj/Debug/net6.0
+/Core/obj/Debug/net8.0
+/CreditMe/obj/Debug/net9.0
+/CreditMe/obj/Debug/net8.0
+/CreditMe/obj/Debug/net6.0
+/CreditMe/obj
+/CreditMe/bin/Debug/net9.0
+/Core/obj
+/Logic/obj
+/Logic/bin/Debug/net9.0
